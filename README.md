@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @bayyaUdayKiran
 - 👀 I’m interested in Software development
+- 💙 I Love Python
+- 🙏 Love' to show my gratitude towards C
 - 🌱 I’m currently learning Flutter framework
 - 💞️ I’m looking to collaborate on a flutter project
 - 📫 How to reach me:
