@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @bayyaUdayKiran
-- 👀 I’m interested in Software development
+- 👀 I’m interested in Cyber Sec.
 - 💙 I Love Python
 - 🙏 Love' to show my gratitude towards C
-- 🌱 I’m currently learning Flutter framework
-- 💞️ I’m looking to collaborate on a flutter project
+- 💞️ I’m looking to collaborate on a Linux based project
 - 📫 How to reach me:
         Email:bayya.uk@gmail.com
         Phone: +919347481941
