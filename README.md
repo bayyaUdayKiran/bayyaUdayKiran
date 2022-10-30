@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bayyaUdayKiran
 - 👀 I’m interested in Cyber Sec.
-- 💙 I Love Python
-- 💞️ I’m looking to collaborate on a Linux based project
+- 💙 Love Python
+- 💞️ I’m looking to collaborate on any python scripts, tools and Linux based projects
 - 📫 How to reach me:
         Email:bayya.uk@gmail.com
         Phone: +919347481941
